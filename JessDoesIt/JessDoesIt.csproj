@@ -355,6 +355,7 @@
     <Content Include="Content\sass\_bootstrap-compass.scss" />
     <Content Include="Content\sass\_bootstrap-mincer.scss" />
     <Content Include="Content\sass\_bootstrap-sprockets.scss" />
+    <None Include="Properties\PublishProfiles\jessdoesit - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -453,7 +454,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>64483</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
